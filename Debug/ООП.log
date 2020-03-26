@@ -1,0 +1,19 @@
+﻿  ООП.cpp
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(22): warning C4091: extern : пропускается слева от "typeEnk", когда ни одна переменная не объявлена
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(154): warning C4101: x: неиспользованная локальная переменная
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(184): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(100): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(155): note: выполняется компиляция ссылки на экземпляр шаблон функции "enk<int> &enk<int>::operator =(enk<int> &)"
+  c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(154): note: выполняется компиляция ссылки на экземпляр шаблон класс "enk<int>"
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(207): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(207): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(155): note: выполняется компиляция ссылки на экземпляр шаблон функции "enk<int>::enk(typeEnk,char *,T,double,int)"
+          with
+          [
+              T=int
+          ]
+c:\users\win10\desktop\с++\ооп 4 с кафедры\ооп.cpp(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+  ООП.vcxproj -> C:\Users\win10\Desktop\с++\ООП 4 с кафедры\Debug\ООП.exe
